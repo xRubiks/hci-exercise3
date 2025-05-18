@@ -1,0 +1,9 @@
+=== Bootstrap-Test: B.2 (Binärer Stimulus) vs. B.3 (Lebensmittelerkennung) ===
+Mittelwert B.2: 532.57 ms (n=26)
+Mittelwert B.3: 1344.64 ms (n=39)
+Beobachteter Unterschied: 812.07 ms
+Bootstrap Samples: 10000
+p-Wert: 0.000000
+
+Ergebnis: Der Unterschied ist statistisch signifikant (p < 0.05)
+Die Nullhypothese (kein Unterschied) wird abgelehnt.

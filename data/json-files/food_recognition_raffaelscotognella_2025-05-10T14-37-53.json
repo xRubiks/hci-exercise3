@@ -1,0 +1,85 @@
+{
+  "participant": {
+    "name": "RaffaelScotognella",
+    "age": 20,
+    "gender": "male",
+    "vision": {
+      "left": null,
+      "right": null
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Google Chrome",
+      "version": "136.0.0.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+      "language": "de-DE",
+      "screenWidth": 1920,
+      "screenHeight": 1080,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "germanFood": {
+      "count": 10,
+      "totalShown": 10,
+      "mean": 1137.6,
+      "standardDeviation": 149.03704237537727,
+      "errorRate": 0
+    },
+    "chineseFood": {
+      "count": 8,
+      "totalShown": 10,
+      "mean": 1525.625,
+      "standardDeviation": 489.1520564967503,
+      "errorRate": 20
+    },
+    "mexicanFood": {
+      "count": 8,
+      "totalShown": 10,
+      "mean": 1414.375,
+      "standardDeviation": 325.9846382500255,
+      "errorRate": 20
+    }
+  },
+  "rawData": {
+    "germanReactionTimes": [
+      1019,
+      1000,
+      1187,
+      1087,
+      1534,
+      1093,
+      1176,
+      1057,
+      1023,
+      1200
+    ],
+    "chineseReactionTimes": [
+      2586,
+      2036,
+      1436,
+      1204,
+      1371,
+      1381,
+      1057,
+      1134
+    ],
+    "mexicanReactionTimes": [
+      1887,
+      1193,
+      1875,
+      1195,
+      1125,
+      1080,
+      1718,
+      1242
+    ],
+    "errors": {
+      "german": 0,
+      "chinese": 2,
+      "mexican": 2
+    },
+    "timestamp": "2025-05-10T14:37:53.611Z"
+  }
+}

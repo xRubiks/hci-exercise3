@@ -1,0 +1,64 @@
+{
+  "participant": {
+    "name": "Florian Schröder",
+    "age": 20,
+    "gender": "male",
+    "vision": {
+      "left": 0,
+      "right": 0
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Mozilla Firefox",
+      "version": "137.0",
+      "os": "Linux",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0",
+      "language": "en-US",
+      "screenWidth": 1707,
+      "screenHeight": 1067,
+      "devicePixelRatio": 2
+    }
+  },
+  "summary": {
+    "purpleSquares": {
+      "count": 11,
+      "mean": 491.1818181818182,
+      "standardDeviation": 51.48842443928217
+    },
+    "orangeSquares": {
+      "count": 8,
+      "mean": 477.625,
+      "standardDeviation": 67.55356670820572
+    },
+    "errorRate": 3.3333333333333335,
+    "totalSquares": 19,
+    "totalTriangles": 11,
+    "mistakes": 1
+  },
+  "rawData": {
+    "purpleReactionTimes": [
+      566,
+      548,
+      590,
+      445,
+      447,
+      435,
+      504,
+      483,
+      460,
+      447,
+      478
+    ],
+    "orangeReactionTimes": [
+      409,
+      511,
+      448,
+      595,
+      570,
+      443,
+      412,
+      433
+    ],
+    "timestamp": "2025-05-08T14:39:32.836Z"
+  }
+}

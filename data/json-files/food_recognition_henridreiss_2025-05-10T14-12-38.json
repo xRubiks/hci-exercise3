@@ -1,0 +1,78 @@
+{
+  "participant": {
+    "name": "HenriDreiss",
+    "age": 20,
+    "gender": "male",
+    "vision": {
+      "left": null,
+      "right": null
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Google Chrome",
+      "version": "136.0.0.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+      "language": "de-DE",
+      "screenWidth": 1920,
+      "screenHeight": 1080,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "germanFood": {
+      "count": 7,
+      "totalShown": 10,
+      "mean": 1113.5714285714287,
+      "standardDeviation": 221.16823405521424,
+      "errorRate": 30
+    },
+    "chineseFood": {
+      "count": 4,
+      "totalShown": 10,
+      "mean": 1228.5,
+      "standardDeviation": 87.45427376635175,
+      "errorRate": 60
+    },
+    "mexicanFood": {
+      "count": 8,
+      "totalShown": 10,
+      "mean": 1221.125,
+      "standardDeviation": 168.1267657899836,
+      "errorRate": 20
+    }
+  },
+  "rawData": {
+    "germanReactionTimes": [
+      1104,
+      1092,
+      1018,
+      962,
+      1624,
+      1103,
+      892
+    ],
+    "chineseReactionTimes": [
+      1194,
+      1306,
+      1313,
+      1101
+    ],
+    "mexicanReactionTimes": [
+      1404,
+      1058,
+      1127,
+      1162,
+      1351,
+      957,
+      1230,
+      1480
+    ],
+    "errors": {
+      "german": 3,
+      "chinese": 6,
+      "mexican": 2
+    },
+    "timestamp": "2025-05-10T14:12:38.428Z"
+  }
+}

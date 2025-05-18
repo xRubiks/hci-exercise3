@@ -1,0 +1,79 @@
+{
+  "participant": {
+    "name": "JulianFeucht",
+    "age": 20,
+    "gender": "male",
+    "vision": {
+      "left": -2.5,
+      "right": -4
+    },
+    "colorVision": "red_green_deficiency",
+    "browserInfo": {
+      "browser": "Mozilla Firefox",
+      "version": "138.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0",
+      "language": "de-DE",
+      "screenWidth": 2560,
+      "screenHeight": 1440,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "germanFood": {
+      "count": 10,
+      "totalShown": 10,
+      "mean": 1103.4,
+      "standardDeviation": 181.13541895499068,
+      "errorRate": 0
+    },
+    "chineseFood": {
+      "count": 5,
+      "totalShown": 10,
+      "mean": 1259.4,
+      "standardDeviation": 209.61545744529434,
+      "errorRate": 50
+    },
+    "mexicanFood": {
+      "count": 5,
+      "totalShown": 10,
+      "mean": 1779.6,
+      "standardDeviation": 388.6363853269532,
+      "errorRate": 50
+    }
+  },
+  "rawData": {
+    "germanReactionTimes": [
+      1197,
+      944,
+      1019,
+      1003,
+      1550,
+      958,
+      1180,
+      1232,
+      998,
+      953
+    ],
+    "chineseReactionTimes": [
+      1372,
+      1582,
+      1003,
+      1273,
+      1067
+    ],
+    "mexicanReactionTimes": [
+      1509,
+      1466,
+      1547,
+      2501,
+      1875
+    ],
+    "errors": {
+      "german": 0,
+      "chinese": 5,
+      "mexican": 5
+    },
+    "timestamp": "2025-05-08T20:41:31.128Z"
+  }
+}

@@ -1,0 +1,16 @@
+=== Zusammenfassung der Experimente ===
+
+A.1 Einfache Reaktionszeiten
+Anzahl Teilnehmer: 13
+Durchschnittliche Reaktionszeit: 903.67 ms
+
+A.2 Binärer Stimulus
+Anzahl Teilnehmer: 13
+Durchschnitt (Lila): 532.04 ms
+Durchschnitt (Orange): 533.11 ms
+
+A.3 Lebensmittelerkennung
+Anzahl Teilnehmer: 13
+Durchschnitt (Deutsch): 1176.91 ms
+Durchschnitt (Chinesisch): 1396.32 ms
+Durchschnitt (Mexikanisch): 1460.70 ms

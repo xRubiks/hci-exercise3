@@ -1,0 +1,62 @@
+{
+  "participant": {
+    "name": "Lukas",
+    "age": 20,
+    "gender": "male",
+    "vision": {
+      "left": 0,
+      "right": 0
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Mozilla Firefox",
+      "version": "138.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0",
+      "language": "de",
+      "screenWidth": 2560,
+      "screenHeight": 1440,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "purpleSquares": {
+      "count": 12,
+      "mean": 607.9166666666666,
+      "standardDeviation": 550.1617123375837
+    },
+    "orangeSquares": {
+      "count": 5,
+      "mean": 580.4,
+      "standardDeviation": 182.22798906863895
+    },
+    "errorRate": 12.903225806451612,
+    "totalSquares": 17,
+    "totalTriangles": 14,
+    "mistakes": 4
+  },
+  "rawData": {
+    "purpleReactionTimes": [
+      367,
+      349,
+      492,
+      509,
+      423,
+      2423,
+      517,
+      423,
+      422,
+      536,
+      414,
+      420
+    ],
+    "orangeReactionTimes": [
+      557,
+      889,
+      524,
+      609,
+      323
+    ],
+    "timestamp": "2025-05-09T09:23:06.930Z"
+  }
+}

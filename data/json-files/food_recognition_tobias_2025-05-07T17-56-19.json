@@ -1,0 +1,80 @@
+{
+  "participant": {
+    "name": "Tobias",
+    "age": 20,
+    "gender": "male",
+    "vision": {
+      "left": null,
+      "right": null
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Mozilla Firefox",
+      "version": "138.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0",
+      "language": "en-US",
+      "screenWidth": 2048,
+      "screenHeight": 1152,
+      "devicePixelRatio": 1.25
+    }
+  },
+  "summary": {
+    "germanFood": {
+      "count": 9,
+      "totalShown": 10,
+      "mean": 1303.111111111111,
+      "standardDeviation": 268.561784509199,
+      "errorRate": 10
+    },
+    "chineseFood": {
+      "count": 6,
+      "totalShown": 10,
+      "mean": 2578,
+      "standardDeviation": 525.2516857025147,
+      "errorRate": 40
+    },
+    "mexicanFood": {
+      "count": 6,
+      "totalShown": 10,
+      "mean": 2519.8333333333335,
+      "standardDeviation": 1364.6109844526713,
+      "errorRate": 40
+    }
+  },
+  "rawData": {
+    "germanReactionTimes": [
+      1180,
+      1051,
+      1098,
+      1215,
+      1921,
+      1628,
+      1279,
+      1204,
+      1152
+    ],
+    "chineseReactionTimes": [
+      3119,
+      1878,
+      2139,
+      3385,
+      2532,
+      2415
+    ],
+    "mexicanReactionTimes": [
+      2424,
+      1459,
+      2349,
+      2231,
+      5404,
+      1252
+    ],
+    "errors": {
+      "german": 1,
+      "chinese": 4,
+      "mexican": 4
+    },
+    "timestamp": "2025-05-07T17:56:19.893Z"
+  }
+}

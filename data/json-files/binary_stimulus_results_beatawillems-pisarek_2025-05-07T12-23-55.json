@@ -1,0 +1,57 @@
+{
+  "participant": {
+    "name": "BeataWillems-Pisarek",
+    "age": 19,
+    "gender": "female",
+    "vision": {
+      "left": null,
+      "right": null
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Opera",
+      "version": "117.0.0.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+      "language": "de-DE",
+      "screenWidth": 1536,
+      "screenHeight": 864,
+      "devicePixelRatio": 1.25
+    }
+  },
+  "summary": {
+    "purpleSquares": {
+      "count": 6,
+      "mean": 486.3333333333333,
+      "standardDeviation": 59.49416404619495
+    },
+    "orangeSquares": {
+      "count": 6,
+      "mean": 473.5,
+      "standardDeviation": 73.20006830597906
+    },
+    "errorRate": 10,
+    "totalSquares": 12,
+    "totalTriangles": 18,
+    "mistakes": 3
+  },
+  "rawData": {
+    "purpleReactionTimes": [
+      442,
+      516,
+      403,
+      461,
+      508,
+      588
+    ],
+    "orangeReactionTimes": [
+      329,
+      542,
+      487,
+      437,
+      532,
+      514
+    ],
+    "timestamp": "2025-05-07T12:23:55.303Z"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "participant": {
+    "name": "Florian Schröder",
+    "age": 20,
+    "gender": "male",
+    "vision": {
+      "left": 0,
+      "right": 0
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Mozilla Firefox",
+      "version": "137.0",
+      "os": "Linux",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0",
+      "language": "en-US",
+      "screenWidth": 1707,
+      "screenHeight": 1067,
+      "devicePixelRatio": 2
+    }
+  },
+  "summary": {
+    "germanFood": {
+      "count": 10,
+      "totalShown": 10,
+      "mean": 1073.9,
+      "standardDeviation": 140.57485550410502,
+      "errorRate": 0
+    },
+    "chineseFood": {
+      "count": 9,
+      "totalShown": 10,
+      "mean": 1363.6666666666667,
+      "standardDeviation": 372.93341675603887,
+      "errorRate": 10
+    },
+    "mexicanFood": {
+      "count": 7,
+      "totalShown": 10,
+      "mean": 1050.4285714285713,
+      "standardDeviation": 123.28347953611066,
+      "errorRate": 30
+    }
+  },
+  "rawData": {
+    "germanReactionTimes": [
+      1040,
+      1084,
+      1255,
+      994,
+      929,
+      955,
+      1399,
+      1099,
+      958,
+      1026
+    ],
+    "chineseReactionTimes": [
+      1207,
+      1434,
+      2333,
+      1278,
+      968,
+      1406,
+      1393,
+      1172,
+      1082
+    ],
+    "mexicanReactionTimes": [
+      1080,
+      813,
+      1057,
+      1049,
+      1253,
+      987,
+      1114
+    ],
+    "errors": {
+      "german": 0,
+      "chinese": 1,
+      "mexican": 3
+    },
+    "timestamp": "2025-05-08T14:26:53.081Z"
+  }
+}

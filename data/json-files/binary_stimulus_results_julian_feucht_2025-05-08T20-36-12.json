@@ -1,0 +1,55 @@
+{
+  "participant": {
+    "name": "Julian Feucht",
+    "age": 20,
+    "gender": "male",
+    "vision": {
+      "left": -2.5,
+      "right": -4
+    },
+    "colorVision": "red_green_deficiency",
+    "browserInfo": {
+      "browser": "Mozilla Firefox",
+      "version": "138.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0",
+      "language": "de-DE",
+      "screenWidth": 2560,
+      "screenHeight": 1440,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "purpleSquares": {
+      "count": 7,
+      "mean": 620,
+      "standardDeviation": 165.6096960584477
+    },
+    "orangeSquares": {
+      "count": 3,
+      "mean": 660,
+      "standardDeviation": 98.8062076322468
+    },
+    "errorRate": 3.3333333333333335,
+    "totalSquares": 10,
+    "totalTriangles": 20,
+    "mistakes": 1
+  },
+  "rawData": {
+    "purpleReactionTimes": [
+      374,
+      521,
+      847,
+      489,
+      573,
+      709,
+      827
+    ],
+    "orangeReactionTimes": [
+      572,
+      610,
+      798
+    ],
+    "timestamp": "2025-05-08T20:36:12.227Z"
+  }
+}

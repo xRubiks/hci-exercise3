@@ -1,0 +1,87 @@
+{
+  "participant": {
+    "name": "BeataWillems-Pisarek",
+    "age": 19,
+    "gender": "female",
+    "vision": {
+      "left": null,
+      "right": null
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Opera",
+      "version": "117.0.0.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0",
+      "language": "de-DE",
+      "screenWidth": 1536,
+      "screenHeight": 864,
+      "devicePixelRatio": 1.25
+    }
+  },
+  "summary": {
+    "germanFood": {
+      "count": 10,
+      "totalShown": 10,
+      "mean": 1093.3,
+      "standardDeviation": 78.40031887690255,
+      "errorRate": 0
+    },
+    "chineseFood": {
+      "count": 9,
+      "totalShown": 10,
+      "mean": 1148.888888888889,
+      "standardDeviation": 92.96288918397545,
+      "errorRate": 10
+    },
+    "mexicanFood": {
+      "count": 9,
+      "totalShown": 10,
+      "mean": 1051.111111111111,
+      "standardDeviation": 90.49425327910723,
+      "errorRate": 10
+    }
+  },
+  "rawData": {
+    "germanReactionTimes": [
+      1011,
+      1030,
+      1141,
+      1045,
+      1124,
+      1208,
+      1144,
+      1110,
+      1176,
+      944
+    ],
+    "chineseReactionTimes": [
+      1039,
+      1097,
+      1330,
+      1244,
+      1128,
+      1208,
+      1150,
+      1020,
+      1124
+    ],
+    "mexicanReactionTimes": [
+      949,
+      940,
+      1224,
+      965,
+      1113,
+      1013,
+      1141,
+      1048,
+      1067
+    ],
+    "errors": {
+      "german": 0,
+      "chinese": 1,
+      "mexican": 1
+    },
+    "timestamp": "2025-05-07T12:27:02.011Z"
+  }
+}

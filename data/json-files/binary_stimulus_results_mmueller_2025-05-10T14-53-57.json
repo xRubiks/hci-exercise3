@@ -1,0 +1,61 @@
+{
+  "participant": {
+    "name": "mmueller",
+    "age": 19,
+    "gender": "not_specified",
+    "vision": {
+      "left": 0.7,
+      "right": 3.5
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Opera",
+      "version": "118.0.0.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0",
+      "language": "en",
+      "screenWidth": 1920,
+      "screenHeight": 1080,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "purpleSquares": {
+      "count": 7,
+      "mean": 484.57142857142856,
+      "standardDeviation": 77.34497332056675
+    },
+    "orangeSquares": {
+      "count": 9,
+      "mean": 557.4444444444445,
+      "standardDeviation": 89.16166479567215
+    },
+    "errorRate": 0,
+    "totalSquares": 16,
+    "totalTriangles": 15,
+    "mistakes": 0
+  },
+  "rawData": {
+    "purpleReactionTimes": [
+      421,
+      598,
+      434,
+      590,
+      404,
+      520,
+      425
+    ],
+    "orangeReactionTimes": [
+      584,
+      511,
+      397,
+      547,
+      740,
+      551,
+      621,
+      579,
+      487
+    ],
+    "timestamp": "2025-05-10T14:53:57.917Z"
+  }
+}

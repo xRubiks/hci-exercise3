@@ -1,0 +1,89 @@
+{
+  "participant": {
+    "name": "Niko",
+    "age": 22,
+    "gender": "male",
+    "vision": {
+      "left": null,
+      "right": null
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Mozilla Firefox",
+      "version": "138.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0",
+      "language": "de",
+      "screenWidth": 1920,
+      "screenHeight": 1080,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "germanFood": {
+      "count": 10,
+      "totalShown": 10,
+      "mean": 1252.1,
+      "standardDeviation": 310.02562797291455,
+      "errorRate": 0
+    },
+    "chineseFood": {
+      "count": 10,
+      "totalShown": 10,
+      "mean": 1516.8,
+      "standardDeviation": 394.2605230047766,
+      "errorRate": 0
+    },
+    "mexicanFood": {
+      "count": 10,
+      "totalShown": 10,
+      "mean": 1838.2,
+      "standardDeviation": 808.0543051057894,
+      "errorRate": 0
+    }
+  },
+  "rawData": {
+    "germanReactionTimes": [
+      1199,
+      1374,
+      1097,
+      1164,
+      1301,
+      1065,
+      1118,
+      2121,
+      1119,
+      963
+    ],
+    "chineseReactionTimes": [
+      1462,
+      1776,
+      1299,
+      1261,
+      1899,
+      2342,
+      1102,
+      1773,
+      1164,
+      1090
+    ],
+    "mexicanReactionTimes": [
+      2223,
+      1988,
+      2120,
+      3921,
+      1832,
+      1242,
+      1676,
+      1270,
+      1126,
+      984
+    ],
+    "errors": {
+      "german": 0,
+      "chinese": 0,
+      "mexican": 0
+    },
+    "timestamp": "2025-05-11T19:06:50.069Z"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "participant": {
+    "name": "Pascal",
+    "age": 21,
+    "gender": "male",
+    "vision": {
+      "left": null,
+      "right": null
+    },
+    "colorVision": "red_green_deficiency",
+    "browserInfo": {
+      "browser": "Google Chrome",
+      "version": "135.0.0.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+      "language": "de-DE",
+      "screenWidth": 1440,
+      "screenHeight": 960,
+      "devicePixelRatio": 2
+    }
+  },
+  "summary": {
+    "germanFood": {
+      "count": 8,
+      "totalShown": 10,
+      "mean": 1376.25,
+      "standardDeviation": 294.4459840106501,
+      "errorRate": 20
+    },
+    "chineseFood": {
+      "count": 6,
+      "totalShown": 10,
+      "mean": 1478.8333333333333,
+      "standardDeviation": 280.41601040042076,
+      "errorRate": 40
+    },
+    "mexicanFood": {
+      "count": 8,
+      "totalShown": 10,
+      "mean": 1718.75,
+      "standardDeviation": 346.9076786408741,
+      "errorRate": 20
+    }
+  },
+  "rawData": {
+    "germanReactionTimes": [
+      1784,
+      1169,
+      1234,
+      1338,
+      1955,
+      1187,
+      1108,
+      1235
+    ],
+    "chineseReactionTimes": [
+      1426,
+      1121,
+      2023,
+      1488,
+      1539,
+      1276
+    ],
+    "mexicanReactionTimes": [
+      2042,
+      1212,
+      2090,
+      1830,
+      1570,
+      1808,
+      2042,
+      1156
+    ],
+    "errors": {
+      "german": 2,
+      "chinese": 4,
+      "mexican": 2
+    },
+    "timestamp": "2025-05-08T10:47:26.988Z"
+  }
+}

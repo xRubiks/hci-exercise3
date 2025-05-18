@@ -1,0 +1,86 @@
+{
+  "participant": {
+    "name": "Maximilian Elser",
+    "age": 21,
+    "gender": "male",
+    "vision": {
+      "left": null,
+      "right": null
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Google Chrome",
+      "version": "136.0.0.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+      "language": "de-DE",
+      "screenWidth": 2560,
+      "screenHeight": 1440,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "germanFood": {
+      "count": 9,
+      "totalShown": 10,
+      "mean": 1084.5555555555557,
+      "standardDeviation": 244.17166598345474,
+      "errorRate": 10
+    },
+    "chineseFood": {
+      "count": 8,
+      "totalShown": 10,
+      "mean": 1140.5,
+      "standardDeviation": 262.93915646019707,
+      "errorRate": 20
+    },
+    "mexicanFood": {
+      "count": 10,
+      "totalShown": 10,
+      "mean": 1179.8,
+      "standardDeviation": 345.6506328650362,
+      "errorRate": 0
+    }
+  },
+  "rawData": {
+    "germanReactionTimes": [
+      930,
+      1016,
+      1003,
+      1749,
+      1117,
+      1010,
+      909,
+      1092,
+      935
+    ],
+    "chineseReactionTimes": [
+      1332,
+      822,
+      1081,
+      1133,
+      1709,
+      1175,
+      977,
+      895
+    ],
+    "mexicanReactionTimes": [
+      1242,
+      1030,
+      1022,
+      2180,
+      1141,
+      1191,
+      1050,
+      945,
+      955,
+      1042
+    ],
+    "errors": {
+      "german": 1,
+      "chinese": 2,
+      "mexican": 0
+    },
+    "timestamp": "2025-05-09T12:45:59.809Z"
+  }
+}

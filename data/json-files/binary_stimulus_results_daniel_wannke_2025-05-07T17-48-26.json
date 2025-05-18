@@ -1,0 +1,59 @@
+{
+  "participant": {
+    "name": "Daniel Wannke",
+    "age": 19,
+    "gender": "male",
+    "vision": {
+      "left": 0,
+      "right": 0
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Google Chrome",
+      "version": "135.0.0.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+      "language": "de-DE",
+      "screenWidth": 1920,
+      "screenHeight": 1080,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "purpleSquares": {
+      "count": 6,
+      "mean": 496.5,
+      "standardDeviation": 73.59970561535329
+    },
+    "orangeSquares": {
+      "count": 8,
+      "mean": 701.75,
+      "standardDeviation": 210.53844660773956
+    },
+    "errorRate": 3.3333333333333335,
+    "totalSquares": 14,
+    "totalTriangles": 16,
+    "mistakes": 1
+  },
+  "rawData": {
+    "purpleReactionTimes": [
+      651,
+      456,
+      427,
+      506,
+      452,
+      487
+    ],
+    "orangeReactionTimes": [
+      595,
+      813,
+      656,
+      1197,
+      480,
+      522,
+      658,
+      693
+    ],
+    "timestamp": "2025-05-07T17:48:26.749Z"
+  }
+}

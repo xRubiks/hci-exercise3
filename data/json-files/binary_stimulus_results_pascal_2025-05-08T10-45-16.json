@@ -1,0 +1,62 @@
+{
+  "participant": {
+    "name": "Pascal",
+    "age": 21,
+    "gender": "male",
+    "vision": {
+      "left": null,
+      "right": null
+    },
+    "colorVision": "red_green_deficiency",
+    "browserInfo": {
+      "browser": "Google Chrome",
+      "version": "135.0.0.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+      "language": "de-DE",
+      "screenWidth": 1440,
+      "screenHeight": 960,
+      "devicePixelRatio": 2
+    }
+  },
+  "summary": {
+    "purpleSquares": {
+      "count": 9,
+      "mean": 492.8888888888889,
+      "standardDeviation": 74.53477107206697
+    },
+    "orangeSquares": {
+      "count": 8,
+      "mean": 525.5,
+      "standardDeviation": 86.1249092887766
+    },
+    "errorRate": 3.3333333333333335,
+    "totalSquares": 17,
+    "totalTriangles": 13,
+    "mistakes": 1
+  },
+  "rawData": {
+    "purpleReactionTimes": [
+      571,
+      452,
+      415,
+      410,
+      605,
+      429,
+      467,
+      485,
+      602
+    ],
+    "orangeReactionTimes": [
+      432,
+      440,
+      424,
+      478,
+      610,
+      585,
+      578,
+      657
+    ],
+    "timestamp": "2025-05-08T10:45:16.317Z"
+  }
+}

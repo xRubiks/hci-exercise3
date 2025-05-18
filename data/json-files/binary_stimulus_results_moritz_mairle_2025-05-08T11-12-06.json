@@ -1,0 +1,60 @@
+{
+  "participant": {
+    "name": "Moritz Mairle",
+    "age": 21,
+    "gender": "male",
+    "vision": {
+      "left": -6,
+      "right": -6
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Mozilla Firefox",
+      "version": "140.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+      "language": "de",
+      "screenWidth": 2560,
+      "screenHeight": 1440,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "purpleSquares": {
+      "count": 8,
+      "mean": 481.75,
+      "standardDeviation": 73.69998303934676
+    },
+    "orangeSquares": {
+      "count": 7,
+      "mean": 492.14285714285717,
+      "standardDeviation": 97.23671935969834
+    },
+    "errorRate": 10,
+    "totalSquares": 15,
+    "totalTriangles": 15,
+    "mistakes": 3
+  },
+  "rawData": {
+    "purpleReactionTimes": [
+      364,
+      596,
+      553,
+      452,
+      415,
+      512,
+      430,
+      532
+    ],
+    "orangeReactionTimes": [
+      371,
+      589,
+      366,
+      475,
+      613,
+      587,
+      444
+    ],
+    "timestamp": "2025-05-08T11:12:06.506Z"
+  }
+}

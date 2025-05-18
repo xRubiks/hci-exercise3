@@ -1,0 +1,40 @@
+Demografische Zusammenfassung
+=========================
+
+Anzahl Personen: 39
+
+Altersstatistik:
+- Durchschnittsalter: 20.15 Jahre
+- Minimum: 19 Jahre
+- Maximum: 22 Jahre
+
+Geschlechterverteilung:
+- male: 33 (84.62%)
+- female: 3 (7.69%)
+- not_specified: 3 (7.69%)
+
+Browser-Nutzung:
+- Mozilla Firefox: 18 (46.15%)
+- Google Chrome: 15 (38.46%)
+- Opera: 6 (15.38%)
+
+Experimentzusammenfassung:
+- Reaktionszeiten: 13 Teilnehmer
+- Lebensmittelerkennung: 13 Teilnehmer
+- Binärer Stimulus: 13 Teilnehmer
+
+Detaillierte Experimentdaten:
+
+Reaktionszeiten-Experiment:
+- Durchschnittliche Zeit: 903.67 ms
+- Durchschnittliche Fehler: 0.08
+
+Binärer Stimulus Experiment:
+- Lila Stimuli Zeit: 532.04 ms
+- Orange Stimuli Zeit: 533.11 ms
+- Fehlerrate: 4.83%
+
+Lebensmittelerkennung:
+- Deutsches Essen Fehlerrate: 6.15%
+- Chinesisches Essen Fehlerrate: 30.00%
+- Mexikanisches Essen Fehlerrate: 20.77%

@@ -1,0 +1,86 @@
+{
+  "participant": {
+    "name": "Moritz Mairle",
+    "age": 21,
+    "gender": "male",
+    "vision": {
+      "left": -6,
+      "right": -6
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Mozilla Firefox",
+      "version": "140.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+      "language": "de",
+      "screenWidth": 2560,
+      "screenHeight": 1440,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "germanFood": {
+      "count": 10,
+      "totalShown": 10,
+      "mean": 1092,
+      "standardDeviation": 198.03686525493177,
+      "errorRate": 0
+    },
+    "chineseFood": {
+      "count": 8,
+      "totalShown": 10,
+      "mean": 1095.5,
+      "standardDeviation": 229.45151993395032,
+      "errorRate": 20
+    },
+    "mexicanFood": {
+      "count": 9,
+      "totalShown": 10,
+      "mean": 1136.4444444444443,
+      "standardDeviation": 156.07698322096704,
+      "errorRate": 10
+    }
+  },
+  "rawData": {
+    "germanReactionTimes": [
+      835,
+      928,
+      837,
+      1218,
+      1296,
+      1077,
+      1485,
+      1117,
+      1163,
+      964
+    ],
+    "chineseReactionTimes": [
+      1026,
+      934,
+      941,
+      1070,
+      991,
+      1186,
+      950,
+      1666
+    ],
+    "mexicanReactionTimes": [
+      1156,
+      998,
+      1113,
+      1012,
+      1528,
+      1164,
+      982,
+      1084,
+      1191
+    ],
+    "errors": {
+      "german": 0,
+      "chinese": 2,
+      "mexican": 1
+    },
+    "timestamp": "2025-05-08T11:14:59.457Z"
+  }
+}

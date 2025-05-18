@@ -1,0 +1,61 @@
+{
+  "participant": {
+    "name": "Raffael Scotognella",
+    "age": 20,
+    "gender": "male",
+    "vision": {
+      "left": null,
+      "right": null
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Google Chrome",
+      "version": "136.0.0.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+      "language": "de-DE",
+      "screenWidth": 1920,
+      "screenHeight": 1080,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "purpleSquares": {
+      "count": 8,
+      "mean": 676.75,
+      "standardDeviation": 112.82924044767827
+    },
+    "orangeSquares": {
+      "count": 8,
+      "mean": 593.875,
+      "standardDeviation": 79.38267679412178
+    },
+    "errorRate": 0,
+    "totalSquares": 17,
+    "totalTriangles": 14,
+    "mistakes": 0
+  },
+  "rawData": {
+    "purpleReactionTimes": [
+      500,
+      749,
+      621,
+      647,
+      836,
+      838,
+      639,
+      584
+    ],
+    "orangeReactionTimes": [
+      566,
+      594,
+      744,
+      638,
+      612,
+      587,
+      572,
+      438
+    ],
+    "timestamp": "2025-05-10T14:36:01.979Z"
+  }
+}

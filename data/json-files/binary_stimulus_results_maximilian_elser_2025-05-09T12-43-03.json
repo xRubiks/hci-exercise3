@@ -1,0 +1,63 @@
+{
+  "participant": {
+    "name": "Maximilian Elser",
+    "age": 21,
+    "gender": "male",
+    "vision": {
+      "left": null,
+      "right": null
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Google Chrome",
+      "version": "136.0.0.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+      "language": "de-DE",
+      "screenWidth": 2560,
+      "screenHeight": 1440,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "purpleSquares": {
+      "count": 10,
+      "mean": 418.6,
+      "standardDeviation": 77.21036199889235
+    },
+    "orangeSquares": {
+      "count": 8,
+      "mean": 411.375,
+      "standardDeviation": 73.00160529056878
+    },
+    "errorRate": 3.225806451612903,
+    "totalSquares": 19,
+    "totalTriangles": 12,
+    "mistakes": 1
+  },
+  "rawData": {
+    "purpleReactionTimes": [
+      357,
+      468,
+      380,
+      360,
+      425,
+      434,
+      328,
+      612,
+      376,
+      446
+    ],
+    "orangeReactionTimes": [
+      516,
+      339,
+      355,
+      326,
+      462,
+      369,
+      405,
+      519
+    ],
+    "timestamp": "2025-05-09T12:43:03.180Z"
+  }
+}

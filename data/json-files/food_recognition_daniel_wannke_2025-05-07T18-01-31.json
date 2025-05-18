@@ -1,0 +1,81 @@
+{
+  "participant": {
+    "name": "Daniel Wannke",
+    "age": 19,
+    "gender": "male",
+    "vision": {
+      "left": 0,
+      "right": 0
+    },
+    "colorVision": "normal",
+    "browserInfo": {
+      "browser": "Google Chrome",
+      "version": "135.0.0.0",
+      "os": "Windows",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+      "language": "de-DE",
+      "screenWidth": 1920,
+      "screenHeight": 1080,
+      "devicePixelRatio": 1
+    }
+  },
+  "summary": {
+    "germanFood": {
+      "count": 10,
+      "totalShown": 10,
+      "mean": 1148.5,
+      "standardDeviation": 209.44605510727578,
+      "errorRate": 0
+    },
+    "chineseFood": {
+      "count": 3,
+      "totalShown": 10,
+      "mean": 1346,
+      "standardDeviation": 175.59802580515154,
+      "errorRate": 70
+    },
+    "mexicanFood": {
+      "count": 9,
+      "totalShown": 10,
+      "mean": 1462,
+      "standardDeviation": 247.3926254177984,
+      "errorRate": 10
+    }
+  },
+  "rawData": {
+    "germanReactionTimes": [
+      1711,
+      954,
+      1033,
+      1208,
+      1102,
+      1207,
+      1230,
+      1016,
+      996,
+      1028
+    ],
+    "chineseReactionTimes": [
+      1102,
+      1428,
+      1508
+    ],
+    "mexicanReactionTimes": [
+      1290,
+      1414,
+      1526,
+      1147,
+      1823,
+      1049,
+      1634,
+      1529,
+      1746
+    ],
+    "errors": {
+      "german": 0,
+      "chinese": 7,
+      "mexican": 1
+    },
+    "timestamp": "2025-05-07T18:01:31.376Z"
+  }
+}

@@ -1,0 +1,40 @@
+name,food_type,mean,median,std
+Lukas,Deutsch,1018.78,1054.0,76.87
+Lukas,Chinesisch,1099.62,1101.5,75.99
+Lukas,Mexikanisch,1110.2,1066.0,115.77
+BeataWillems-Pisarek,Deutsch,1093.3,1117.0,78.4
+BeataWillems-Pisarek,Chinesisch,1148.89,1128.0,92.96
+BeataWillems-Pisarek,Mexikanisch,1051.11,1048.0,90.49
+Daniel Wannke,Deutsch,1148.5,1067.5,209.45
+Daniel Wannke,Chinesisch,1346.0,1428.0,175.6
+Daniel Wannke,Mexikanisch,1462.0,1526.0,247.39
+Florian Schröder,Deutsch,1073.9,1033.0,140.57
+Florian Schröder,Chinesisch,1363.67,1278.0,372.93
+Florian Schröder,Mexikanisch,1050.43,1057.0,123.28
+HenriDreiss,Deutsch,1113.57,1092.0,221.17
+HenriDreiss,Chinesisch,1228.5,1250.0,87.45
+HenriDreiss,Mexikanisch,1221.12,1196.0,168.13
+JulianFeucht,Deutsch,1103.4,1011.0,181.14
+JulianFeucht,Chinesisch,1259.4,1273.0,209.62
+JulianFeucht,Mexikanisch,1779.6,1547.0,388.64
+Maximilian Elser,Deutsch,1084.56,1010.0,244.17
+Maximilian Elser,Chinesisch,1140.5,1107.0,262.94
+Maximilian Elser,Mexikanisch,1179.8,1046.0,345.65
+mmueller,Deutsch,1502.8,1455.0,251.4
+mmueller,Chinesisch,1370.86,1185.0,328.35
+mmueller,Mexikanisch,1507.22,1373.0,480.52
+Moritz Mairle,Deutsch,1092.0,1097.0,198.04
+Moritz Mairle,Chinesisch,1095.5,1008.5,229.45
+Moritz Mairle,Mexikanisch,1136.44,1113.0,156.08
+Niko,Deutsch,1252.1,1141.5,310.03
+Niko,Chinesisch,1516.8,1380.5,394.26
+Niko,Mexikanisch,1838.2,1754.0,808.05
+Pascal,Deutsch,1376.25,1234.5,294.45
+Pascal,Chinesisch,1478.83,1457.0,280.42
+Pascal,Mexikanisch,1718.75,1819.0,346.91
+RaffaelScotognella,Deutsch,1137.6,1090.0,149.04
+RaffaelScotognella,Chinesisch,1525.62,1376.0,489.15
+RaffaelScotognella,Mexikanisch,1414.38,1218.5,325.98
+Tobias,Deutsch,1303.11,1204.0,268.56
+Tobias,Chinesisch,2578.0,2473.5,525.25
+Tobias,Mexikanisch,2519.83,2290.0,1364.61
