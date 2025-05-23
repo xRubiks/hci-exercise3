@@ -113,6 +113,8 @@ function clearForNewCalc(){
     curInput = '';
     prevInput = '';
     curOp = '';
+    lastKeyPressTime = null;
+    lastKeyPosition = null;
     run++;
     randomNum();
     });
